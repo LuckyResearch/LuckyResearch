@@ -22,6 +22,8 @@ Lucky Research Community 🇻🇳
 
   ⚡ Fullnode Celestia Testnet Incentivized (ended August 2023)
 
+  # Social Link:
+
 👯 Telegram: http://t.me/luckyresearch_chat
 
 👯 Telegram Announcement: https://t.me/luckyresearch_ann
