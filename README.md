@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-#Lucky Research Community 🇻🇳
+# Lucky Research Community 🇻🇳
 - Research, RetroActive. 
 - Trusted Validator and Active contributor in Blockchain
 
 🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Aura:
 
- Mainnet: 
+ # Mainnet: 
 
   ⚡ Validator Aura Network: https://aurascan.io/validators/auravaloper168g9xa6m6c3tnyaezymt3j377998gmfzwhzcym
 
-  Testnet:
+  # Testnet:
 
   ⚡ Validator Dymension Froopyland Testnet Incentivized: https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
 
