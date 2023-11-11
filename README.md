@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Lucky Research Community 🇻🇳
+Lucky Research Community 🇻🇳
 - Research, RetroActive. 
 - Trusted Validator and Active contributor in Blockchain
 
