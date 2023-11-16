@@ -10,6 +10,8 @@ Lucky Research Community 🇻🇳
 
   ⚡ Validator Aura Network: https://aurascan.io/validators/auravaloper168g9xa6m6c3tnyaezymt3j377998gmfzwhzcym
 
+  ⚡ Validator Celestia (collaborate Node&ValidatorVN): https://wallet.keplr.app/chains/celestia?modal=validator&chain=celestia&validator_address=celestiavaloper1a45xq89mrtg8sutfzlf9w7l4xz56mq5fche67c&referral=true
+  
   # Testnet:
 
   ⚡ Validator Dymension Froopyland Testnet Incentivized: https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
