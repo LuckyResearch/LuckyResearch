@@ -21,9 +21,9 @@ https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne
 
   ⚡ RollApps Dymension Froopyland Testnet Incentivized: https://portal.dymension.xyz/rollapp/luckyresreach_3792255-1
 
-  ⚡ Light Node Avail Clash of Node Testnet Incentivized (live)
+  ⚡ Validator Avail Clash of Node Testnet Incentivized (live)
 
-  ⚡ Full Node Avail Clash of Node Testnet Incentivized (live)
+  ⚡ Light Node Avail Clash of Node Testnet Incentivized (live)
 
   ⚡ Fullnode Celestia Testnet Incentivized (ended August 2023)
 
