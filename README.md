@@ -13,7 +13,6 @@ Lucky Research Community 🇻🇳
   ⚡Validator mainnet Shentu:
 https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne3t78
 
-  ⚡ Validator Celestia (collaborate Node&ValidatorVN): https://wallet.keplr.app/chains/celestia?modal=validator&chain=celestia&validator_address=celestiavaloper1a45xq89mrtg8sutfzlf9w7l4xz56mq5fche67c&referral=true
   
   # Testnet:
 
