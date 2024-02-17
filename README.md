@@ -4,29 +4,34 @@ Lucky Research Community 🇻🇳
 - Research, RetroActive. 
 - Trusted Validator and Active contributor in Blockchain
 
-🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Aura:
+🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Sui, Shentu:
+ * Building a Modular blockchain community, diligently contributing to support the development of the Vietnamese community. Official mod of  Celestia, Dymension, Avail Educator, Sui, Shentu,...
 
  # Mainnet: 
 
-  ⚡ Validator Aura Network: https://aurascan.io/validators/auravaloper168g9xa6m6c3tnyaezymt3j377998gmfzwhzcym
+  ⚡ Validator Dymension: https://dymension.explorers.guru/validator/dymvaloper1ufh97qcc4ksupz07gzqdha72j3fwc5l27zhlv0
   
-  ⚡Validator mainnet Shentu:
+  ⚡Validator Shentu:
 https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne3t78
 
   
   # Testnet:
 
-  ⚡ Validator Dymension Froopyland Testnet Incentivized: https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
+  ⚡ Validator Celestia Mocha Testnet Rank 88 ( Active top 100): https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
+
+  ⚡ Validator Dymension Froopyland Testnet Incentivized ( ACtive Top 100 - Rank 6) : https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
 
   ⚡ RollApps Dymension Froopyland Testnet Incentivized: https://portal.dymension.xyz/rollapp/luckyresreach_3792255-1
 
-  ⚡ Validator Avail Clash of Node Testnet Incentivized (live)
+  ⚡ Validator Avail Clash of Node Testnet Incentivized (concluded)
 
   ⚡ Light Node Avail Clash of Node Testnet Incentivized (live)
 
   ⚡ Fullnode Celestia Testnet Incentivized (ended August 2023)
 
   # Social Link:
+  
+🔭 X: https://twitter.com/LuckyResearchVN
 
 👯 Telegram: http://t.me/luckyresearch_chat
 
@@ -34,7 +39,7 @@ https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne
 
 📫 Discord: https://discord.gg/kXJgmPn78Q
 
-🔭 X: https://twitter.com/LuckyResearchVN
+
 
 <!--
 **LuckyResearch/LuckyResearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
