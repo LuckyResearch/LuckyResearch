@@ -19,7 +19,7 @@ https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne
 
   ⚡ Validator Celestia Mocha Testnet Rank 88 ( Active top 100): https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
 
-  ⚡ Validator Dymension Froopyland Testnet Incentivized ( ACtive Top 100 - Rank 6) : https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
+  ⚡ Validator Dymension Froopyland Testnet Incentivized ( Active Top 100 - Rank 6) : https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
 
   ⚡ RollApps Dymension Froopyland Testnet Incentivized: https://portal.dymension.xyz/rollapp/luckyresreach_3792255-1
 
