@@ -9,12 +9,13 @@ Lucky Research Community 🇻🇳
 
  # Mainnet: 
 
-  ⚡ Validator Dymension: https://dymension.explorers.guru/validator/dymvaloper1ufh97qcc4ksupz07gzqdha72j3fwc5l27zhlv0
+  ⚡ Validator Dymension (Rank 14): https://dymension.explorers.guru/validator/dymvaloper1ufh97qcc4ksupz07gzqdha72j3fwc5l27zhlv0
   
-  ⚡Validator Shentu:
-https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne3t78
+  ⚡ Validator Shentu (Rank 122): https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne3t78
 
-  
+  ⚡ Validator Celestia (Inactive): https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
+
+
   # Testnet:
 
   ⚡ Validator Celestia Mocha Testnet Rank 88 ( Active top 100): https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
