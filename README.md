@@ -1,15 +1,18 @@
 ### Hi there 👋
 
 Lucky Research Community 🇻🇳
-- Research, RetroActive. 
-- Trusted Validator and Active contributor in Blockchain
+- Research, RetroActive, Testnet 
+- Trusted Validator and Active stronger contributor in Blockchain
 
 🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Sui, Shentu:
- * Building a Modular blockchain community, diligently contributing to support the development of the Vietnamese community. Official mod of  Celestia, Dymension, Avail Educator, Sui, Shentu,...
+
+ * Building a Modular blockchain community, diligently contributing to support the development of the Vietnamese community.
+
+ * Moderator on the official Discord at Celestia, Dymension, Sui Network, Avail ( Educator role)
 
  # Mainnet: 
 
-  ⚡ Validator Dymension (Rank 14): https://dymension.explorers.guru/validator/dymvaloper1ufh97qcc4ksupz07gzqdha72j3fwc5l27zhlv0
+  ⚡ Validator Dymension (Rank 15): https://dymension.explorers.guru/validator/dymvaloper1ufh97qcc4ksupz07gzqdha72j3fwc5l27zhlv0
   
   ⚡ Validator Shentu (Rank 122): https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne3t78
 
@@ -39,7 +42,11 @@ Lucky Research Community 🇻🇳
 👯 Telegram Announcement: https://t.me/luckyresearch_ann
 
 📫 Discord: https://discord.gg/kXJgmPn78Q
-
+------------------------
+Contact official and just only. If anyone impersonates from an address other than this one, please block and disregard it.
+- Email: leeusdt@gmail.com 
+- Discord: leelucky
+- Telegram: https://t.me/leeluckyresearch
 
 
 <!--
