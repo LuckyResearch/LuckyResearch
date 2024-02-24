@@ -27,6 +27,8 @@ Lucky Research Community 🇻🇳
 
   ⚡ RollApps Dymension Froopyland Testnet Incentivized: https://portal.dymension.xyz/rollapp/luckyresreach_3792255-1
 
+  ⚡ Validator Side Protocol https://explorer.side.exchange/testnet/staking/sidevaloper1t6lm8xm69an6jenlgc2kct8klmh94apxcdydwq
+
   ⚡ Validator Avail Clash of Node Testnet Incentivized (concluded)
 
   ⚡ Light Node Avail Clash of Node Testnet Incentivized (live)
