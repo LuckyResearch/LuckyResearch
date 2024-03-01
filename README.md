@@ -18,6 +18,7 @@ Lucky Research Community 🇻🇳
 
   ⚡ Validator Celestia (Inactive): https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
 
+  ⚡ Light Node Celestia (live)
 
   # Testnet:
 
