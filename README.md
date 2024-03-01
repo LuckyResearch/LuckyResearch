@@ -29,6 +29,8 @@ Lucky Research Community 🇻🇳
 
   ⚡ Validator Side Protocol https://explorer.side.exchange/testnet/staking/sidevaloper1t6lm8xm69an6jenlgc2kct8klmh94apxcdydwq
 
+  ⚡ Validator Selfchain Incentivized Testnet: https://explorer.nodestake.org/selfchain-testnet/staking/selfvaloper1302dqtmuq9zm49q0t6u645t0xg7vcfmrfyyhdr
+  
   ⚡ Validator Avail Clash of Node Testnet Incentivized (concluded)
 
   ⚡ Light Node Avail Clash of Node Testnet Incentivized (live)
