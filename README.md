@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-Lucky Research Community 🇻🇳
+Lucky Research 
+
+ * Moderator on the official Discord at Celestia, Dymension, Sui Network, Avail ( Educator role)
+
 - Research, RetroActive, Testnet 
 - Trusted Validator and Active stronger contributor in Blockchain
 
-🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Sui, Shentu:
+🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Sui, Shentu, Side Prôtcol, SelfChain:
 
  * Building a Modular blockchain community, diligently contributing to support the development of the Vietnamese community.
-
- * Moderator on the official Discord at Celestia, Dymension, Sui Network, Avail ( Educator role)
 
  # Mainnet: 
 
