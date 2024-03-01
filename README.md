@@ -12,7 +12,7 @@ Lucky Research Community 🇻🇳
 
  # Mainnet: 
 
-  ⚡ Validator Dymension (Rank 15): https://dymension.explorers.guru/validator/dymvaloper1ufh97qcc4ksupz07gzqdha72j3fwc5l27zhlv0
+  ⚡ Validator Dymension (Rank 17): https://dymension.explorers.guru/validator/dymvaloper1ufh97qcc4ksupz07gzqdha72j3fwc5l27zhlv0
   
   ⚡ Validator Shentu (Rank 122): https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne3t78
 
