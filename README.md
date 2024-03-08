@@ -32,6 +32,8 @@ Lucky Research
   ⚡ Validator Side Protocol https://explorer.side.exchange/testnet/staking/sidevaloper1t6lm8xm69an6jenlgc2kct8klmh94apxcdydwq
 
   ⚡ Validator Selfchain Incentivized Testnet: https://explorer.nodestake.org/selfchain-testnet/staking/selfvaloper1302dqtmuq9zm49q0t6u645t0xg7vcfmrfyyhdr
+
+  ⚡ Validator HedgeBlockio Testnet: https://berberis.hedgescan.io/validators/hedgevaloper1ax90rn6nqcck4x6pkf020y6stsjsjv62rlldhq
   
   ⚡ Validator Avail Clash of Node Testnet Incentivized (concluded)
 
