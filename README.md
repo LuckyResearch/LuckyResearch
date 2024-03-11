@@ -34,8 +34,10 @@ Lucky Research
   ⚡ Validator Selfchain Incentivized Testnet: https://explorer.nodestake.org/selfchain-testnet/staking/selfvaloper1302dqtmuq9zm49q0t6u645t0xg7vcfmrfyyhdr
 
   ⚡ Validator HedgeBlockio Testnet: https://berberis.hedgescan.io/validators/hedgevaloper1ax90rn6nqcck4x6pkf020y6stsjsjv62rlldhq
+
+  ⚡ Validator Tanssi Validator Testnet (Search Lucky Research): https://telemetry.polkadot.io/#list/0x27aafd88e5921f5d5c6aebcd728dacbbf5c2a37f63e2eda301f8e0def01c43ea 
   
-  ⚡ Validator Avail Clash of Node Testnet Incentivized (concluded)
+  ⚡ Validator Avail Clash of Node Testnet Incentivized (Search Lucky Research): https://telemetry.avail.tools/#/0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae
 
   ⚡ Light Node Avail Clash of Node Testnet Incentivized (live)
 
