@@ -43,6 +43,8 @@ Lucky Research
 
   ⚡ Fullnode Celestia Testnet Incentivized (ended August 2023)
 
+  ⚡ Bridge Mocha Testnet ( ID bridge node: 12D3KooWSFBeCpCqNgo5ECEh3EYuK6C3tbL6hUFa4fGzqfkUcAL1 )
+
   # Social Link:
   
 🔭 X: https://twitter.com/LuckyResearchVN
