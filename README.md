@@ -23,19 +23,21 @@ Lucky Research
 
   # Testnet:
 
-  ⚡ Validator Celestia Mocha Testnet Rank 88 ( Active top 100): https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
+  ⚡ Validator Celestia Mocha Testnet Rank 81 : https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
 
-  ⚡ Validator Dymension Froopyland Testnet Incentivized ( Active Top 100 - Rank 6) : https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
+  ⚡ Validator Dymension Testnet ( Active Top 100 - Rank 10) : https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
 
   ⚡ RollApps Dymension Froopyland Testnet Incentivized: https://portal.dymension.xyz/rollapp/luckyresreach_3792255-1
 
-  ⚡ Validator Side Protocol https://explorer.side.exchange/testnet/staking/sidevaloper1t6lm8xm69an6jenlgc2kct8klmh94apxcdydwq
+  ⚡ Validator Side Protocol: https://explorer.nodestake.org/side-testnet/staking/bcvaloper1hqq7e67cv4xsktn4yc9cq3erlkm7jv8v6knhhs
 
   ⚡ Validator Selfchain Incentivized Testnet: https://explorer.nodestake.org/selfchain-testnet/staking/selfvaloper1302dqtmuq9zm49q0t6u645t0xg7vcfmrfyyhdr
 
   ⚡ Validator HedgeBlockio Testnet: https://berberis.hedgescan.io/validators/hedgevaloper1ax90rn6nqcck4x6pkf020y6stsjsjv62rlldhq
 
   ⚡ Validator Tanssi Validator Testnet (Search Lucky Research): https://telemetry.polkadot.io/#list/0x27aafd88e5921f5d5c6aebcd728dacbbf5c2a37f63e2eda301f8e0def01c43ea 
+
+  ⚡ Validator Warden Testnet: https://warden-explorer.paranorm.pro/warden/staking/wardenvaloper1m8jhvf2hl0tklh7qd4faaltgpd9mrgmse5da0t
   
   ⚡ Validator Avail Clash of Node Testnet Incentivized (Search Lucky Research): https://telemetry.avail.tools/#/0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae
 
