@@ -7,7 +7,7 @@ Lucky Research
 - Research, RetroActive, Testnet 
 - Trusted Validator and Active stronger contributor in Blockchain
 
-🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Sui, Shentu, Side Prôtcol, SelfChain:
+🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Sui, Shentu, Side Protocol, SelfChain:
 
  * Building a Modular blockchain community, diligently contributing to support the development of the Vietnamese community.
 
