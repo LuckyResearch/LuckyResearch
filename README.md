@@ -19,6 +19,8 @@ Lucky Research
 
   ⚡ Validator SEDA chain: https://seda.explorers.guru/validator/sedavaloper1wjj6xyjkenvlpwklszdu87qlqdjswlt050xaep
 
+  ⚡ Validator Nibiru chain: https://explorer.nodesync.top/Nibiru-Mainnet/staking/nibivaloper19jf5rtn6dykjjrsjtprpddq85wyx7cc949vqxf or https://app.nibiru.fi/stake choose LuckyResearch.org to stake
+
   ⚡ Validator Celestia (Inactive): https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
 
   ⚡ Light Node Celestia (live)
@@ -31,7 +33,7 @@ Lucky Research
 
   ⚡ RollApps Dymension Froopyland Testnet Incentivized: https://portal.dymension.xyz/rollapp/luckyresreach_3792255-1
 
-  ⚡ Validator Side Protocol: https://explorer.nodestake.org/side-testnet/staking/bcvaloper1hqq7e67cv4xsktn4yc9cq3erlkm7jv8v6knhhs
+  ⚡ Validator Side Protocol Testnet Incentivized: https://testnet.ping.pub/side/staking/bcvaloper1qqwskxc2pgp3kxcprcz3k8q9zgdpjpqvqcxqurchzgzqyqcwqygq2zpvhe8
 
   ⚡ Validator Selfchain Incentivized Testnet: https://explorer.nodestake.org/selfchain-testnet/staking/selfvaloper1302dqtmuq9zm49q0t6u645t0xg7vcfmrfyyhdr
 
