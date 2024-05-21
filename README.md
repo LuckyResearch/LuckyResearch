@@ -20,7 +20,8 @@ Lucky Research
   ⚡ Validator SEDA chain: https://seda.explorers.guru/validator/sedavaloper1wjj6xyjkenvlpwklszdu87qlqdjswlt050xaep
 
   ⚡ Validator Nibiru chain: https://explorer.nodesync.top/Nibiru-Mainnet/staking/nibivaloper19jf5rtn6dykjjrsjtprpddq85wyx7cc949vqxf or https://app.nibiru.fi/stake choose LuckyResearch.org to stake
-
+  
+  ⚡ Validator Entangle: https://explorer.entangle.fi/validators/entvaloper1npmtg0q2xnq93jwt5sssh9zdhcmx5vr3sft6ff
   ⚡ Validator Celestia (Inactive): https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
 
   ⚡ Light Node Celestia (live)
