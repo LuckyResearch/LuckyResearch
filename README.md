@@ -22,6 +22,7 @@ Lucky Research
   ⚡ Validator Nibiru chain: https://explorer.nodesync.top/Nibiru-Mainnet/staking/nibivaloper19jf5rtn6dykjjrsjtprpddq85wyx7cc949vqxf or https://app.nibiru.fi/stake choose LuckyResearch.org to stake
   
   ⚡ Validator Entangle: https://explorer.entangle.fi/validators/entvaloper1npmtg0q2xnq93jwt5sssh9zdhcmx5vr3sft6ff
+  
   ⚡ Validator Celestia (Inactive): https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
 
   ⚡ Light Node Celestia (live)
@@ -47,6 +48,8 @@ Lucky Research
   ⚡ Validator Avail Clash of Node Testnet Incentivized (Search Lucky Research): https://telemetry.avail.tools/#/0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae
 
   ⚡ Validator Avail Turing (Search Lucky Research): https://telemetry.avail.so/#list/0xd3d2f3a3495dc597434a99d7d449ebad6616db45e4e4f178f31cc6fa14378b70
+
+  ⚡ Validator Airchains: https://explorer.nodesync.top/Junction-Testnet/staking/airvaloper1lku4zp6l2zrwdmltxlg7p2tk7s9akny4swu2gd
 
   ⚡ Light Node Avail Clash of Node Testnet Incentivized (live)
 
