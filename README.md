@@ -25,6 +25,10 @@ Lucky Research
   
   ⚡ Validator Celestia (Inactive): https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
 
+  ⚡ Validator Selfchain: https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1uylk289p43cv7qlyg0lklpzf30h5kf2d6wt7m2
+
+  ⚡ Governor Mande NetWork RollApps Dymension: https://portal.dymension.xyz/rollapp/mande_18071918-1/staking ( Search " LuckyResearch.org)
+
   ⚡ Light Node Celestia (live)
 
   # Testnet:
