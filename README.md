@@ -35,8 +35,8 @@ Lucky Research
 
   ⚡ Validator Celestia Mocha Testnet Rank 81 : https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
 
-  ⚡ Validator Dymension Testnet ( Active Top 100 - Rank 10) : https://dymension.explorers.guru/validator/dymvaloper1wzhawlwmqjknrgyry8e7m9qqwx9wrzaa93raf0
-
+  ⚡ Validator Dymension Testnet ( Active Top 100 - Rank 10) : https://froopyland.explorers.guru/validator/dymvaloper1psu80y23eyzyry0mkn9x2qr6znrdvvy0f9x9vs
+  
   ⚡ RollApps Dymension Froopyland Testnet Incentivized: https://portal.dymension.xyz/rollapp/luckyresreach_3792255-1
 
   ⚡ Validator Side Protocol Testnet Incentivized: https://testnet.ping.pub/side/staking/bcvaloper1qqwskxc2pgp3kxcprcz3k8q9zgdpjpqvqcxqurchzgzqyqcwqygq2zpvhe8
