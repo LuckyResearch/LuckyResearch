@@ -2,10 +2,11 @@
 
 Lucky Research 
 
- * Moderator on the official Discord at Celestia, Dymension, Sui Network, Avail ( Educator role)
+ * Moderator on the official Discord at **Celestia, Dymension, Sui Network, Walrus Protocol, Avail ( Educator role), Mycel** 
 
-- Research, RetroActive, Testnet 
-- Trusted Validator and Active stronger contributor in Blockchain
+- Research, RetroActive, Testnet QA
+
+- **Advancing  blockchain ecosystems with Trusted PoS Validation. Securing  $50M+ for 2,000+ delegators. Community management. Active stronger contributor in Blockchain**
 
 🌱 #Lucky Research contribute to the network Celestia, Dymension, Avail, Sui, Shentu, Side Protocol, SelfChain:
 
@@ -14,20 +15,20 @@ Lucky Research
  # Mainnet: 
 
   ⚡ Validator Dymension (Rank 17): https://dymension.explorers.guru/validator/dymvaloper1ufh97qcc4ksupz07gzqdha72j3fwc5l27zhlv0
+
+  ⚡ Validator Celestia (Rank 69): https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
   
   ⚡ Validator Shentu (Rank 122): https://ping.pub/shentu/staking/shentuvaloper1j8jsjc9vsefsyqjk96k6xskvy54kzeytne3t78
 
   ⚡ Validator SEDA chain: https://seda.explorers.guru/validator/sedavaloper1wjj6xyjkenvlpwklszdu87qlqdjswlt050xaep
 
-  ⚡ Validator Nibiru chain: https://explorer.nodesync.top/Nibiru-Mainnet/staking/nibivaloper19jf5rtn6dykjjrsjtprpddq85wyx7cc949vqxf or https://app.nibiru.fi/stake choose LuckyResearch.org to stake
-  
   ⚡ Validator Entangle: https://explorer.entangle.fi/validators/entvaloper1npmtg0q2xnq93jwt5sssh9zdhcmx5vr3sft6ff
-  
-  ⚡ Validator Celestia (Inactive): https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
+
+   ⚡ Governor Mande NetWork RollApps Dymension: https://portal.dymension.xyz/rollapp/mande_18071918-1/staking ( Search " LuckyResearch.org)
+
+  ⚡ Validator Nibiru chain: https://explorer.nodesync.top/Nibiru-Mainnet/staking/nibivaloper19jf5rtn6dykjjrsjtprpddq85wyx7cc949vqxf or https://app.nibiru.fi/stake choose LuckyResearch.org to stake
 
   ⚡ Validator Selfchain: https://explorer.selfchain.xyz/selfchain/staking/selfvaloper1uylk289p43cv7qlyg0lklpzf30h5kf2d6wt7m2
-
-  ⚡ Governor Mande NetWork RollApps Dymension: https://portal.dymension.xyz/rollapp/mande_18071918-1/staking ( Search " LuckyResearch.org)
 
   ⚡ Light Node Celestia (live)
 
@@ -59,7 +60,7 @@ Lucky Research
 
   ⚡ Fullnode Celestia Testnet Incentivized (ended August 2023)
 
-  ⚡ Bridge Mocha Testnet ( ID bridge node: 12D3KooWSFBeCpCqNgo5ECEh3EYuK6C3tbL6hUFa4fGzqfkUcAL1 )
+  ⚡ Bridge Mocha Testnet and Mainnet Beta Celestia ( Live)
 
   # Social Link:
 
@@ -67,15 +68,13 @@ Lucky Research
   
 🔭 X: https://twitter.com/LuckyResearchVN
 
-👯 Telegram: http://t.me/luckyresearch_chat
-
 👯 Telegram Announcement: https://t.me/luckyresearch_ann
 
 📫 Discord: https://discord.gg/kXJgmPn78Q
 ------------------------
 Contact official and just only. If anyone impersonates from an address other than this one, please block and disregard it.
 
-- Email: contact@luckyresearch.org -- Email founder: leeusdt@gmail.com 
+- Email: **contact@luckyresearch.org** -- Email founder: leeusdt@gmail.com 
 
 - Discord: leelucky
 
